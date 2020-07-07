@@ -2,7 +2,7 @@
     "team": [
         {
             "id": 1,
-            "memberName": "Nancy",
+            "memberName": "Nancy Davis",
             "memberImage": "https://images.unsplash.com/photo-1542103749-8ef59b94f47e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
             "job": "web developer",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "memberName": "Mohammed",
+            "memberName": "Mohammed Shoblaq",
             "memberImage": "https://lh3.googleusercontent.com/proxy/r7nhuysXu2OXQLqUpmTMNsltZqGzLA25CeahCtcy9owbKyh91bPHGPkZWOvWvX2LxDyZLTUQqotyLEFRS2u8UfdxTuAICLmWz1WdkYdqXBCZ74fR9eQGvhuVuhhf3kcIRiVGLNQaUeKFsILl--Q",
             "job": "Designer",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "memberName": "Majed",
+            "memberName": "Majed Mortaja",
             "memberImage": "https://overlandparkdentist.com/wp-content/uploads/teeth-whitening-service20154a.jpg",
             "job": "markting",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "memberName": "Nserallah",
+            "memberName": "Nserallah Motawea",
             "memberImage": "https://mybroadwayfamilydentistry.com/wp-content/uploads/2018/09/handsome-mature-happy-man-smiling-at-the-cameraoutside-picture-id684161792.jpg",
             "job": "founder & manager",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
@@ -34,7 +34,7 @@
         },
         { 
             "id": 5,
-            "memberName": "Maniza",
+            "memberName": "Amanda Maniza",
             "memberImage": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "job": "translation",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "memberName": "Rasha",
+            "memberName": "Rasha Samino",
             "memberImage": "https://images.unsplash.com/photo-1553975969-e43c7b4d75fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=960&q=80",
             "job": "laravel programmer",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
