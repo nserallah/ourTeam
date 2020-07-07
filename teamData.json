@@ -1,0 +1,62 @@
+{
+    "blog": [
+        {
+            "id": 1,
+            "author": "Nserallah",
+            "title": "how to create workspace that improves productivity",
+            "date": "04/07/2020",
+            "category": ["markting", "immovables"],
+            "cardText": "Productivity is the heart and soul of a business. If you want your employees to improve their productivity, it could come down to the structure and setting of your office. Not just the location, either, but the layout of office furniture and equipment, the flow between employee space, and the overall vibe of your office. Luckily there are resources out there to boost your businesss productivity levels and make your office a place where your employees want to get their work done. Keep reading for tips and advice on how to accomplish that.",
+            "image": "https://www.liknoss.com/sites/default/files/styles/pagesfull/public/2019-10/Company.jpg?itok=C7WoQPKQ",
+            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
+        },
+        {
+            "id": 2,
+            "author": "Ahmed",
+            "title": "the latest in mobile and android apps development",
+            "date": "03/07/2020",
+            "category": ["finance", "bussiness"],
+            "cardText": "Some of our favorite apps are the simplest ones — and you don’t need any coding experience to start making your own. Throughout this Skill Path, you’ll build a basic Android app from start to finish. Get ready to see your work on the really small screen.",
+            "image": "https://i-cdn.phonearena.com/images/article/93424-image/5-apps-to-mod-the-Galaxy-S8-AMOLED-wallpapers-new-Bixby-key-and-more-no-root.jpg",
+            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts."
+        },
+        {
+            "id": 3,
+            "author": "Shadi",
+            "title": "brilliant design strategies & markting",
+            "date": "01/07/2020",
+            "category": ["business", "markting", "art"],
+            "cardText": "A marketing strategy refers to a business's overall game plan for reaching prospective consumers and turning them into customers of the products or services the business provides. A marketing strategy contains the company’s value proposition, key brand messaging, data on target customer demographics, and other high-level elements.",
+            "image": "https://cdn.dribbble.com/users/3213587/screenshots/6162497/brilliant_14_4x.jpg"
+        },
+        {
+            "id": 4,
+            "author": "Nserallah",
+            "title": "learn to manage your time better",
+            "date": "04/07/2020",
+            "category": ["business", "markting", "finance"],
+            "cardText": "How well do you manage your time? If you are like many of us, your answer may be “Not too well.” You may often feel like there is not enough time in a day. Perhaps you even find you constantly have to work late hours to hit your deadlines. Maybe you even feel too busy that you miss meals and sleep. These are all classic signs that you may not be managing your time effectively. Benjamin Franklin once said that time is money. Just like money, time must be managed properly. If you manage time properly you find the right balance between your work",
+            "image": "https://183263-537949-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/Tips-and-skill-for-time-managing-1024x682.jpeg"
+        },
+        {
+            "id": 5,
+            "author": "Abu kamal",
+            "title": "consulting with our specialists",
+            "date": "05/04/2020",
+            "category": ["business", "finance"],
+            "cardText": "As independent information professionals (IIPs), we work alongside our clients to provide top-notch training and consultative services. We help them better understand and implement information strategies to competitively grow their businesses. We offer custom training and coaching to help clients change and grow for tomorrow's challenges.  Whether focusing on how to implement an information governance program, assess the competitive market, or learn to avoid internet fraud, our members help clients better navigate the complexities of business.",
+            "image": "https://overtalent.it/wp-content/uploads/group2.jpg",
+            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts."
+        },
+        {
+            "id": 6,
+            "author": "Ali",
+            "title": "review and a look into our future",
+            "date": "06/06/2020",
+            "category": ["tech", "immovables"],
+            "cardText": "Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+            "image": "https://cmo.marketo.com/content/uploads/sites/5/2018/02/Looking-To-the-Future.jpg",
+            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
+        }
+    ]
+}
