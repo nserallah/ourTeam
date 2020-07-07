@@ -35,7 +35,7 @@
         { 
             "id": 5,
             "memberName": "Maniza",
-            "memberImage": "https://customglass.co.uk/wp-content/uploads/2019/02/person2.jpg",
+            "memberImage": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "job": "translation",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
             "skills": ["markting", "translation", "graphic designer", "UI/UX designer"]
