@@ -2,23 +2,19 @@
     "team": [
         {
             "id": 1,
-            "author": "Nserallah",
-            "title": "how to create workspace that improves productivity",
-            "date": "04/07/2020",
-            "category": ["markting", "immovables"],
-            "cardText": "Productivity is the heart and soul of a business. If you want your employees to improve their productivity, it could come down to the structure and setting of your office. Not just the location, either, but the layout of office furniture and equipment, the flow between employee space, and the overall vibe of your office. Luckily there are resources out there to boost your businesss productivity levels and make your office a place where your employees want to get their work done. Keep reading for tips and advice on how to accomplish that.",
-            "image": "https://www.liknoss.com/sites/default/files/styles/pagesfull/public/2019-10/Company.jpg?itok=C7WoQPKQ",
-            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
+            "memberName": "Nserallah",
+            "memberImage": "https://premiumaddons.b-cdn.net/wp-content/uploads/2018/01/beautiful-woman-smiles.jpg",
+            "job": "web developer",
+            "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
+            "skills": ["markting", "immovables"]
         },
         {
             "id": 2,
-            "author": "Ahmed",
-            "title": "the latest in mobile and android apps development",
-            "date": "03/07/2020",
-            "category": ["finance", "bussiness"],
-            "cardText": "Some of our favorite apps are the simplest ones — and you don’t need any coding experience to start making your own. Throughout this Skill Path, you’ll build a basic Android app from start to finish. Get ready to see your work on the really small screen.",
-            "image": "https://i-cdn.phonearena.com/images/article/93424-image/5-apps-to-mod-the-Galaxy-S8-AMOLED-wallpapers-new-Bixby-key-and-more-no-root.jpg",
-            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts."
+            "memberName": "Mohammed",
+            "memberImage": "https://premiumaddons.b-cdn.net/wp-content/uploads/2018/01/beautiful-woman-smiles.jpg",
+            "job": "web developer",
+            "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
+            "skills": ["markting", "immovables"]
         },
         {
             "id": 3,
