@@ -16,7 +16,9 @@
             "memberImage": "https://lh3.googleusercontent.com/proxy/r7nhuysXu2OXQLqUpmTMNsltZqGzLA25CeahCtcy9owbKyh91bPHGPkZWOvWvX2LxDyZLTUQqotyLEFRS2u8UfdxTuAICLmWz1WdkYdqXBCZ74fR9eQGvhuVuhhf3kcIRiVGLNQaUeKFsILl--Q",
             "job": "Designer",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
-            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"]
+            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"],
+            "aboutMemberTop": "Almost every day we describe and assess the personalities of the people around us. 'She has such a great personality,' you might say about a friend. 'He gets his personality from his dad,' you might say about your rambunctious son. While we spend a lot of time talking about personality, many people are not quite sure exactly how and what personality psychology is really all about.",
+            "aboutMemberButtom": "Whether we realize it or not, these daily musings on how and why people behave as they do are similar to what personality psychologists do. While our informal assessments of personality tend to focus more on individuals, personality psychologists instead use conceptions of personality that can apply to everyone. Personality research has led to the development of a number of theories that help explain how and why certain personality traits develop."
         },
         {
             "id": 3,
@@ -24,7 +26,9 @@
             "memberImage": "https://overlandparkdentist.com/wp-content/uploads/teeth-whitening-service20154a.jpg",
             "job": "markting",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
-            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"]
+            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"],
+            "aboutMemberTop": "Almost every day we describe and assess the personalities of the people around us. 'She has such a great personality,' you might say about a friend. 'He gets his personality from his dad,' you might say about your rambunctious son. While we spend a lot of time talking about personality, many people are not quite sure exactly how and what personality psychology is really all about.",
+            "aboutMemberButtom": "Whether we realize it or not, these daily musings on how and why people behave as they do are similar to what personality psychologists do. While our informal assessments of personality tend to focus more on individuals, personality psychologists instead use conceptions of personality that can apply to everyone. Personality research has led to the development of a number of theories that help explain how and why certain personality traits develop."
         },
         {
             "id": 4,
@@ -32,7 +36,9 @@
             "memberImage": "https://mybroadwayfamilydentistry.com/wp-content/uploads/2018/09/handsome-mature-happy-man-smiling-at-the-cameraoutside-picture-id684161792.jpg",
             "job": "founder & manager",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
-            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"]
+            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"],
+            "aboutMemberTop": "Almost every day we describe and assess the personalities of the people around us. 'She has such a great personality,' you might say about a friend. 'He gets his personality from his dad,' you might say about your rambunctious son. While we spend a lot of time talking about personality, many people are not quite sure exactly how and what personality psychology is really all about.",
+            "aboutMemberButtom": "Whether we realize it or not, these daily musings on how and why people behave as they do are similar to what personality psychologists do. While our informal assessments of personality tend to focus more on individuals, personality psychologists instead use conceptions of personality that can apply to everyone. Personality research has led to the development of a number of theories that help explain how and why certain personality traits develop."
         },
         { 
             "id": 5,
@@ -40,7 +46,9 @@
             "memberImage": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "job": "translation",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
-            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"]
+            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"],
+            "aboutMemberTop": "Almost every day we describe and assess the personalities of the people around us. 'She has such a great personality,' you might say about a friend. 'He gets his personality from his dad,' you might say about your rambunctious son. While we spend a lot of time talking about personality, many people are not quite sure exactly how and what personality psychology is really all about.",
+            "aboutMemberButtom": "Whether we realize it or not, these daily musings on how and why people behave as they do are similar to what personality psychologists do. While our informal assessments of personality tend to focus more on individuals, personality psychologists instead use conceptions of personality that can apply to everyone. Personality research has led to the development of a number of theories that help explain how and why certain personality traits develop."
         },
         {
             "id": 6,
@@ -48,7 +56,9 @@
             "memberImage": "https://images.unsplash.com/photo-1553975969-e43c7b4d75fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=960&q=80",
             "job": "laravel programmer",
             "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s",
-            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"]
+            "skills": ["markting", "translation", "graphic designer", "UI/UX designer"],
+            "aboutMemberTop": "Almost every day we describe and assess the personalities of the people around us. 'She has such a great personality,' you might say about a friend. 'He gets his personality from his dad,' you might say about your rambunctious son. While we spend a lot of time talking about personality, many people are not quite sure exactly how and what personality psychology is really all about.",
+            "aboutMemberButtom": "Whether we realize it or not, these daily musings on how and why people behave as they do are similar to what personality psychologists do. While our informal assessments of personality tend to focus more on individuals, personality psychologists instead use conceptions of personality that can apply to everyone. Personality research has led to the development of a number of theories that help explain how and why certain personality traits develop."
         }
     ]
 }
